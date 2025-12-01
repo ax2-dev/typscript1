@@ -18,6 +18,6 @@ interface weatherProps{
     temp?:number;
 }
 
-const weatherComponent = (props: WeatherProps)=>{
+const weatherComponent = (props: weatherProps)=>{
     
 }
